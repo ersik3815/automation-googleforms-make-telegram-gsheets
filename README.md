@@ -24,9 +24,11 @@ Automate the application processing:
 📩 New order! 👤 Name: Ivan 📞 Contact: +77001112233 🛠 Service: Website creation 💬 Comment: I want a landing page by the end of the week 💰 Budget: 100,000 tenge 🕰 Time for contact: after 18:00 
 
 ## 📸 Screenshots
-- Make Scenario: [add screenshot here]
-- Telegram Message: [add screenshot here]
-- Google Sheet filled: [add screenshot here]
+
+- Make Scenario: [https://github.com/ersik3815/automation-googleforms-make-telegram-gsheets/blob/main/make_scenario.png]
+- Telegram Message: [https://github.com/ersik3815/automation-googleforms-make-telegram-gsheets/blob/main/telegram_message.png]
+- Google Sheet filled: [https://github.com/ersik3815/automation-googleforms-make-telegram-gsheets/blob/main/google_sheet.png]
+- Google Form: [https://github.com/ersik3815/automation-googleforms-make-telegram-gsheets/blob/main/google_form.png]
 
 ## ✅ Result
 - Manual processing of applications removed
